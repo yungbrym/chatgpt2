@@ -4,7 +4,8 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "server": "nodemon server"
+    "server": "nodemon server",
+    "build": "node server.js build"
   },
   "keywords": [],
   "author": "Yungbrym",
